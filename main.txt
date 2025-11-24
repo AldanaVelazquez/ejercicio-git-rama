@@ -1,1 +1,3 @@
 Archivo inicial del ejercicio.
+
+Hola soy Aldana, y estoy haciendo un curso de QA tester 
